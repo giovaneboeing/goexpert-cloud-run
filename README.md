@@ -2,7 +2,7 @@
     
 * Como usar:
   * Acesse a url:
-    * https://desafio-cloud-run-770681869934.us-central1.run.app/temperatura?cep=88750-000
+    * [https://desafio-cloud-run-770681869934.us-central1.run.app/temperatura?cep=88750-000](Cloud Run)
     * Troque o cep para o desejado.
     * O retorno será um JSON com a temperatura atual do local.
 * Para execução local, defina as variaveis de ambiente
