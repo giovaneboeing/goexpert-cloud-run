@@ -10,3 +10,4 @@
   * `export PORT=8080`
 * Para executar via docker, basta utilizar o docker-compose:
   * `docker compose up cloud-run-app`
+  * Acessar em: `http://localhost:8080/temperatura?cep=88750000`
