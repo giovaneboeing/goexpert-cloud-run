@@ -8,3 +8,5 @@
 * Para execução local, defina as variaveis de ambiente
   * `export WEATHER_API_KEY="chave-weather-api"`
   * `export PORT=8080`
+* Para executar via docker, basta utilizar o docker-compose:
+  * `docker compose up cloud-run-app`
